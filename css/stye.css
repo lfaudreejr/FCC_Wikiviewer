@@ -1,0 +1,44 @@
+body {
+    background: #fff;
+}
+
+.jumbotron {
+    background: #3F51B5;
+}
+
+.response1, .response2, .response3, .response4, .response5 {
+    margin-top: 25px;
+    padding: 15px;
+}
+
+.response5 {
+    margin-bottom: 55px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.results a {
+    color: white;
+}
+
+.btn a {
+    color: #3F51B5;
+}
+
+.container a:hover {
+    color: #3F51B5;
+}
+
+.results {
+    display: none;
+    margin-bottom: 55px;
+}
+
+.title {
+    color: #3F51B5;
+}
+.col-sm-6 {
+    margin-top: 15px;
+}
